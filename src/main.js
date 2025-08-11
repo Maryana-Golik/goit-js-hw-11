@@ -17,12 +17,6 @@ import { clearGallery } from "./js/render-functions";
 const form = document.querySelector('.form')
 const searchText = document.querySelector('[name="search-text"]')
 
-// document.addEventListener('DOMContentLoaded', () => {
-//   showLoader()
-// });
-// window.addEventListener('load', () => {
-//   hideLoader()
-// });
 
 
 
